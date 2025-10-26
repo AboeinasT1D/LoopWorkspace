@@ -2,7 +2,7 @@
 
 // Override this if you don't want the default com.${DEVELOPMENT_TEAM}.loopkit that loop uses
 // MAIN_APP_BUNDLE_IDENTIFIER = com.myname.loop
-
+MAIN_APP_BUNDLE_IDENTIFIER = com.${DEVELOPMENT_TEAM}.loopkit.loop2
 // Customize this to change the app name displayed
 //MAIN_APP_DISPLAY_NAME = Loop
 
